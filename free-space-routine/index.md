@@ -4,16 +4,18 @@ title: Free Space Routine — Privacy Policy
 
 # Free Space Routine — Privacy Policy
 
-**Last updated:** 2026-11-23
+**Last updated:** 2026-11-28
 
 Free Space Routine ("the app") helps you keep your phone tidy: it finds duplicate and look-alike photos, junk files and
 old files, and asks you whether to remove them. This policy explains what the app does with your data.
 
 ## The short version
 
-- Everything the app does happens **on your phone**. Your photos, videos, files, file names, faces and answers are
-  **never sent to us or to anyone else**.
-- The app has **no account, no ads, no analytics and no internet permission** in this version.
+- Everything the app does with your photos and files happens **on your phone**. Your photos, videos, files, file
+  names, faces and answers are **never sent to us or to anyone else**.
+- The app has **no account and no analytics of its own**. It shows **ads** (Google AdMob) unless you have Pro, and
+  sells **Pro** through Google Play. The ads and the purchase are the only reasons the app uses the internet; see
+  "Ads and purchases" below.
 - Removing something moves it to a **trash inside the app** for 30 days, so you can bring it back.
 - Uninstalling the app deletes the app's own data.
 
@@ -47,13 +49,25 @@ when you uninstall stays in that folder until you delete it).
 
 To find faces the app uses the on-device face model from **Google Play services (ML Kit)**. The model runs on your
 phone; photos are not sent anywhere. Google Play services downloads and updates the model itself, like any other
-Google component, under [Google's privacy policy](https://policies.google.com/privacy). The app itself does not
-connect to the internet.
+Google component, under [Google's privacy policy](https://policies.google.com/privacy). The app's own code never
+sends your photos or files over the internet; its only network use is the ads and purchases above.
+
+## Ads and purchases
+
+- **Ads.** Free users see an ad page after a finished stage, and can choose to watch a rewarded ad to unlock a
+  compression job. Ads come from **Google AdMob**. To show them, Google's Mobile Ads SDK connects to the internet and
+  may collect your **IP address (approximate location), the device's advertising ID, how you interact with ads,
+  and diagnostics**, to show and measure ads and prevent fraud. This is collected and used by Google, under
+  [Google's privacy policy](https://policies.google.com/privacy); it never includes your photos, files, faces or answers.
+- **Consent.** Where the law requires it, the app first shows Google's consent form (Google UMP) before any ad is
+  requested. You can reset or turn off your advertising ID at any time in Android settings (Settings → Google → Ads).
+- **Pro.** Pro (no ads, extra tools) is bought through **Google Play Billing**. Google handles the payment; the app only
+  learns whether Pro is on and stores that on your phone. We never see your payment details.
+- **Test versions.** Testers of a test version may see Google's test ads, which are not real ads.
 
 ## What we do not do
 
-- We do not collect, sell or share personal data.
-- We do not use advertising or analytics services, and we do not track you.
+- We do not sell your personal data, and we do not run our own analytics or tracking.
 - We do not upload photos, files, file names, folder names, faces or your answers.
 - The app is not meant for children under 13 (or the age required in your country), and we do not knowingly collect
   anything from children.
@@ -68,8 +82,8 @@ connect to the internet.
 
 ## Changes
 
-If a later version adds something that touches your data (for example ads or purchases), we will update this page
-first and say so in the app. The date at the top shows the latest change.
+If a later version adds something that touches your data, we will update this page first and say so in the app. The
+date at the top shows the latest change.
 
 ## Contact
 

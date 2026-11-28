@@ -60,7 +60,9 @@ sends your photos or files over the internet; its only network use is the ads an
   and diagnostics**, to show and measure ads and prevent fraud. This is collected and used by Google, under
   [Google's privacy policy](https://policies.google.com/privacy); it never includes your photos, files, faces or answers.
 - **Consent.** Where the law requires it, the app first shows Google's consent form (Google UMP) before any ad is
-  requested. You can reset or turn off your advertising ID at any time in Android settings (Settings → Google → Ads).
+  requested. Where Google requires it, you can open the form again and change your choice at any time from the app's
+  Settings (**Ad privacy choices**). You can also reset or turn off your advertising ID at any time in Android
+  settings (Settings → Google → Ads).
 - **Pro.** Pro (no ads, extra tools) is bought through **Google Play Billing**. Google handles the payment; the app only
   learns whether Pro is on and stores that on your phone. We never see your payment details.
 - **Test versions.** Testers of a test version may see Google's test ads, which are not real ads.
